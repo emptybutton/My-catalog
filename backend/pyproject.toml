@@ -10,6 +10,12 @@ python = "^3.12"
 typenv = "^0.2.0"
 aiohttp = "^3.9.5"
 faststream = {extras = ["kafka"], version = "^0.5.14"}
+fastapi = "^0.111.0"
+motor = "^3.5.0"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.10.1"
+ruff = "^0.5.0"
 
 [build-system]
 requires = ["poetry-core"]
