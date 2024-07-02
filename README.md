@@ -1,2 +1,2 @@
 # My-catalog
-Bot for creating your own product catalogs
+Bot for creating your own yandex lavka product catalogs
